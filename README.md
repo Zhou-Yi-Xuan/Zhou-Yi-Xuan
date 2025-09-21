@@ -24,6 +24,6 @@
 
 ---
 
-![favorite](The Dark Side Of The Moon.jpg)
+![favorite](TheDarkSideOfTheMoon.jpg)
 
 ![running](nigeru.png)
