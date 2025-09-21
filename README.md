@@ -24,6 +24,6 @@
 
 ---
 
-![favorite](C:\Users\18055\Desktop\DarkSide\The Dark Side Of The Moon.jpg)
+![favorite](The Dark Side Of The Moon.jpg)
 
-![running](C:\Users\18055\Desktop\DarkSide\nigeru.png)
+![running](nigeru.png)
