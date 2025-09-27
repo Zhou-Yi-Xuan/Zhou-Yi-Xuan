@@ -22,8 +22,14 @@
 卷卷无名，却爱读书；天上圆月，地上铜钱；身旁无人，身后骂名；
 静水深流，乾坤未定，你我皆是黑马。
 
----
+<table>
+    <tr>
+        <td><img src="TheDarkSideOfTheMoon.jpg"></td>
+        <td><img src="nigeru.png"></td>
+    </tr>
+    <tr>
+        <td>Dark Side</td>
+        <td>Free Bird</td>
+    </tr>
+</table>
 
-![favorite](TheDarkSideOfTheMoon.jpg)
-
-![running](nigeru.png)
