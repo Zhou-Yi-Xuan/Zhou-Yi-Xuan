@@ -29,5 +29,13 @@
         <td>Dark Side</td>
         <td>Free Bird</td>
     </tr>
+    <tr>
+        <td><img src="IMG_0056.JPG"></td>
+        <td><img src="me.jpeg"></td>
+    </tr>
+    <tr>
+        <td>Land</td>
+        <td>WHOAMI</td>
+    </tr>
 </table>
 
